@@ -1,5 +1,5 @@
 #Emojoy
-A quick and easy way to bulk upload custom emoji to slack.
+A quick and easy way to bulk upload [custom emoji to slack.](https://get.slack.help/hc/en-us/articles/206870177-Creating-custom-emoji)
 
 Comes with more cat emoji because cats.
 
@@ -25,10 +25,9 @@ Comes with more cat emoji because cats.
 1. Python 2.7.X: [download](https://www.python.org/downloads/)
 2. Selenium: `pip install selenium`
 3. Chromedriver:  `brew install chromedriver` or [download](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-4. Admin access to your slack account.
 
 ###Usage
-1.  Complete the requirements above and download this repo.
+1.  Satisfy the requirements above and download this repo.
 2.  (Optional) Add any custom emoji you want to the imgs directory or another dir.
 3.  From a terminal in the repo directory run `python emojoy.py`.
 4.  Follow the prompts for teamname, directory (use `imgs` for the cats in this repo), email, and password.
