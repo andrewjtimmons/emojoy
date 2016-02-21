@@ -22,6 +22,8 @@ Software is provided under the [MIT Liscense](https://opensource.org/licenses/MI
 This software asks for your password using the python [getpass library.](# https://docs.python.org/2/library/getpass.html
 )  This program only takes your password and puts in it a browser, which then sends it to slack.  This program does not store your password or send it to any third parties. 
 
+I only tested this on Mac.  If you have trouble with Windows or Linux and find a solution feel free to put in a pull request.
+
 ###Emoji sources
 Emoji one images provided free by [Emoji One.](http://emojione.com/)
 
