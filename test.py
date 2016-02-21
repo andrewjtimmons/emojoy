@@ -29,12 +29,15 @@ elem.send_keys(Keys.RETURN)
 for filename in os.listdir(sys.argv[3]):
     if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
         # put in file name
-        elem = driver.find_element_by_id("emojiname")
+        elem = driver.find_element_by_id('emojiname')
         elem.send_keys(filename.split('.')[0])
         # put in path to file
-        elem = driver.find_element_by_id("emojiimg")
-        path = "/%s/%s" % (sys.argv[3], filename)
-        elem.send_keys(path)
+        elem = driver.find_element_by_id('emojiimg')
+        path = os.getcwd() + '/' + sys.argv[3] + '/' + filename
         print path
+        elem.send_keys(path)
+        # submit the form
+        driver.find_element_by_xpath("//input[@type='submit' and @value='Save New Emoji']").click()
+
 
 #driver.close()
