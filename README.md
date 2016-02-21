@@ -4,25 +4,23 @@ A quick and easy way to bulk upload custom emoji to slack.
 Comes with more cat emoji because cats.
 
 <img src="imgs/cat_face_with_tears_of_joy_emoji_one.png" width=25 height=25 />
+<img src="imgs/cat_face_with_tears_of_joy_mozilla.png" width=25 height=25 />
+<img src="imgs/cat_face_with_wry_smile_emoji_one.png" width=25 height=25 />
+<img src="imgs/cat_face_with_wry_smile_mozilla.png" width=25 height=25 />
+<img src="imgs/crying_cat_face_emoji_one.png" width=25 height=25 />
+<img src="imgs/crying_cat_face_mozilla.png" width=25 height=25 />
+<img src="imgs/grinning_cat_face_with_smiling_eyes_emoji_one.png" width=25 height=25 />
+<img src="imgs/grinning_cat_face_with_smiling_eyes_mozilla.png" width=25 height=25 />
+<img src="imgs/kissing_cat_face_with_closed_eyes_emoji_one.png" width=25 height=25 />
+<img src="imgs/kissing_cat_face_with_closed_eyes_mozilla.png" width=25 height=25 />
+<img src="imgs/pouting_cat_face_emoji_one.png" width=25 height=25 />
+<img src="imgs/pouting_cat_face_mozilla.png" width=25 height=25 />
+<img src="imgs/smiling_cat_face_with_heart_shaped_eyes_emoji_one.png" width=25 height=25 />
+<img src="imgs/smiling_cat_face_with_heart_shaped_eyes_mozilla.png" width=25 height=25 />
+<img src="imgs/smiling_cat_face_with_open_mouth_mozilla.png" width=25 height=25 />
+<img src="imgs/weary_cat_face_emoji_one.png" width=25 height=25 />
+<img src="imgs/weary_cat_face_mozilla.png" width=25 height=25 />
 
-
-![cat_face_with_tears_of_joy_emoji_one](https://raw.githubusercontent.com/andrewjtimmons/emojoy/master/imgs/cat_face_with_tears_of_joy_emoji_one.png%20=25ximgs/cat_face_with_tears_of_joy_emoji_one.png =25x)
-![cat_face_with_tears_of_joy_mozilla](imgs/cat_face_with_tears_of_joy_mozilla.png =25x)
-![cat_face_with_wry_smile_emoji_one](imgs/cat_face_with_wry_smile_emoji_one.png =25x)
-![cat_face_with_wry_smile_mozilla](imgs/cat_face_with_wry_smile_mozilla.png =25x)
-![crying_cat_face_emoji_one](imgs/crying_cat_face_emoji_one.png =25x)
-![crying_cat_face_mozilla](imgs/crying_cat_face_mozilla.png =25x)
-![grinning_cat_face_with_smiling_eyes_emoji_one](imgs/grinning_cat_face_with_smiling_eyes_emoji_one.png =25x)
-![grinning_cat_face_with_smiling_eyes_mozilla](imgs/grinning_cat_face_with_smiling_eyes_mozilla.png =25x)
-![kissing_cat_face_with_closed_eyes_emoji_one](imgs/kissing_cat_face_with_closed_eyes_emoji_one.png =25x)
-![kissing_cat_face_with_closed_eyes_mozilla](imgs/kissing_cat_face_with_closed_eyes_mozilla.png =25x)
-![pouting_cat_face_emoji_one](imgs/pouting_cat_face_emoji_one.png =25x)
-![pouting_cat_face_mozilla](imgs/pouting_cat_face_mozilla.png =25x)
-![smiling_cat_face_with_heart_shaped_eyes_emoji_one](imgs/smiling_cat_face_with_heart_shaped_eyes_emoji_one.png =25x)
-![smiling_cat_face_with_heart_shaped_eyes_mozilla](imgs/smiling_cat_face_with_heart_shaped_eyes_mozilla.png =25x)
-![smiling_cat_face_with_open_mouth_mozilla](imgs/smiling_cat_face_with_open_mouth_mozilla.png =25x)
-![weary_cat_face_emoji_one](imgs/weary_cat_face_emoji_one.png =25x)
-![weary_cat_face_mozilla](imgs/weary_cat_face_mozilla.png =25x)
 ###Requirements
 1. Python 2.7.X: [download](https://www.python.org/downloads/)
 2. Selenium: pip install selenium
