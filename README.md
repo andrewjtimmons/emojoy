@@ -3,7 +3,7 @@ A quick and easy way to bulk upload custom emoji to slack.
 
 Comes with more cat emoji because cats.
 
-![cat_face_with_tears_of_joy_emoji_one](imgs/cat_face_with_tears_of_joy_emoji_one.png =25x)
+![cat_face_with_tears_of_joy_emoji_one](https://raw.githubusercontent.com/andrewjtimmons/emojoy/master/imgs/cat_face_with_tears_of_joy_emoji_one.png =25x)
 ![cat_face_with_tears_of_joy_mozilla](imgs/cat_face_with_tears_of_joy_mozilla.png =25x)
 ![cat_face_with_wry_smile_emoji_one](imgs/cat_face_with_wry_smile_emoji_one.png =25x)
 ![cat_face_with_wry_smile_mozilla](imgs/cat_face_with_wry_smile_mozilla.png =25x)
