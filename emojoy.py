@@ -39,10 +39,9 @@ for filename in os.listdir(img_path):
         # put in path to file
         elem = driver.find_element_by_id('emojiimg')
         path = os.getcwd() + '/' + img_path + '/' + filename
-        print path
         elem.send_keys(path)
         # submit the form
         driver.find_element_by_xpath("//input[@type='submit' and @value='Save New Emoji']").click()
 
-
-#driver.close()
+# Close the browser session
+driver.close()
