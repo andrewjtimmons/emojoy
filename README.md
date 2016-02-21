@@ -31,7 +31,7 @@ Comes with more cat emoji because cats.
 1.  Complete the requirements above and download this repo.
 2.  (Optional) Add any custom emoji you want to the imgs directory or another dir.
 3.  From a terminal in the repo directory run `python emojoy.py`.
-4.  Follow the prompts for teamname, directory (use imgs for cats), email, and password.
+4.  Follow the prompts for teamname, directory (use `imgs` for the cats in this repo), email, and password.
 5.  Watch the emoji upload like magic, or go pet a real cat.  You earned it.
 
 ###Notes
