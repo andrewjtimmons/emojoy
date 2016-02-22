@@ -3,24 +3,24 @@ A quick and easy way to bulk upload [custom emoji to slack.](https://get.slack.h
 
 Comes with more cat emoji because cats.
 
-<img src="imgs/cat_face_with_tears_of_joy_emoji_one.png" width=33 height=33 />
-<img src="imgs/cat_face_with_tears_of_joy_mozilla.png" width=33 height=33 />
-<img src="imgs/cat_face_with_wry_smile_emoji_one.png" width=33 height=33 />
-<img src="imgs/cat_face_with_wry_smile_mozilla.png" width=33 height=33 />
-<img src="imgs/crying_cat_face_emoji_one.png" width=33 height=33 />
-<img src="imgs/crying_cat_face_mozilla.png" width=33 height=33 />
-<img src="imgs/grinning_cat_face_with_smiling_eyes_emoji_one.png" width=33 height=33 />
-<img src="imgs/grinning_cat_face_with_smiling_eyes_mozilla.png" width=33 height=33 />
-<img src="imgs/kissing_cat_face_with_closed_eyes_emoji_one.png" width=33 height=33 />
-<img src="imgs/kissing_cat_face_with_closed_eyes_mozilla.png" width=33 height=33 />
-<img src="imgs/pouting_cat_face_emoji_one.png" width=33 height=33 />
-<img src="imgs/pouting_cat_face_mozilla.png" width=33 height=33 />
-<img src="imgs/smiling_cat_face_with_heart_shaped_eyes_emoji_one.png" width=33 height=33 />
-<img src="imgs/smiling_cat_face_with_heart_shaped_eyes_mozilla.png" width=33 height=33 />
-<img src="imgs/smiling_cat_face_with_open_mouth_emoji_one.png" width=33 height=33 />
-<img src="imgs/smiling_cat_face_with_open_mouth_mozilla.png" width=33 height=33 />
-<img src="imgs/weary_cat_face_emoji_one.png" width=33 height=33 />
-<img src="imgs/weary_cat_face_mozilla.png" width=33 height=33 />
+<img src="imgs/cat_face_with_tears_of_joy_emoji_one.png" width=40 height=40 />
+<img src="imgs/cat_face_with_tears_of_joy_mozilla.png" width=40 height=40 />
+<img src="imgs/cat_face_with_wry_smile_emoji_one.png" width=40 height=40 />
+<img src="imgs/cat_face_with_wry_smile_mozilla.png" width=40 height=40 />
+<img src="imgs/crying_cat_face_emoji_one.png" width=40 height=40 />
+<img src="imgs/crying_cat_face_mozilla.png" width=40 height=40 />
+<img src="imgs/grinning_cat_face_with_smiling_eyes_emoji_one.png" width=40 height=40 />
+<img src="imgs/grinning_cat_face_with_smiling_eyes_mozilla.png" width=40 height=40 />
+<img src="imgs/kissing_cat_face_with_closed_eyes_emoji_one.png" width=40 height=40 />
+<img src="imgs/kissing_cat_face_with_closed_eyes_mozilla.png" width=40 height=40 />
+<img src="imgs/pouting_cat_face_emoji_one.png" width=40 height=40 />
+<img src="imgs/pouting_cat_face_mozilla.png" width=40 height=40 />
+<img src="imgs/smiling_cat_face_with_heart_shaped_eyes_emoji_one.png" width=40 height=40 />
+<img src="imgs/smiling_cat_face_with_heart_shaped_eyes_mozilla.png" width=40 height=40 />
+<img src="imgs/smiling_cat_face_with_open_mouth_emoji_one.png" width=40 height=40 />
+<img src="imgs/smiling_cat_face_with_open_mouth_mozilla.png" width=40 height=40 />
+<img src="imgs/weary_cat_face_emoji_one.png" width=40 height=40 />
+<img src="imgs/weary_cat_face_mozilla.png" width=40 height=40 />
 
 ###Requirements
 1. Python 2.7.X: [download](https://www.python.org/downloads/)
